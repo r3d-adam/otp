@@ -1,0 +1,9 @@
+.idea/
+vendor/
+
+.env
+
+*.log
+logs
+**/*.backup.*
+**/*.back.*
